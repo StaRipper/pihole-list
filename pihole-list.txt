@@ -55,3 +55,8 @@ data.mistat.rus.xiaomi.com
 advertising.apple.com
 adtech.yahooinc.com
 ck.ads.oppomobile.com
+tools.mouseflow.com
+browser.sentry-cdn.com
+appmetrica.yandex.ru
+bdapi-ads.realmemobile.com
+books-analytics-events.apple.com
