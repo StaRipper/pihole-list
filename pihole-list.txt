@@ -40,7 +40,6 @@ grs.hicloud.com
 click.oneplus.cn
 business-api.tiktok.com
 metrika.yandex.ru
-offerwall.yandex.net - blocked
 appmetrica.yandex.ru
 logservice.hicloud.com
 logbak.hicloud.com
