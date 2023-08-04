@@ -59,9 +59,9 @@ browser.sentry-cdn.com
 appmetrica.yandex.ru
 bdapi-ads.realmemobile.com
 books-analytics-events.apple.com
-https://affiliationjs.s3.amazonaws.com
-https://amazonaax.com
-https://browser.sentry-cdn.com
-https://ads.facebook.com
-https://advertising.twitter.com
-https://d.reddit.com
+affiliationjs.s3.amazonaws.com
+amazonaax.com
+browser.sentry-cdn.com
+ads.facebook.com
+advertising.twitter.com
+d.reddit.com
