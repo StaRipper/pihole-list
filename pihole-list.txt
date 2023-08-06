@@ -65,3 +65,8 @@ browser.sentry-cdn.com
 ads.facebook.com
 advertising.twitter.com
 d.reddit.com
+appmetrica.yandex.com
+metrics1.data.hicloud.com
+metrics5.data.hicloud.com
+metrics-dra.dt.hicloud.com
+business.samsungusa.com
