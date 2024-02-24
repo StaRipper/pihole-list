@@ -82,3 +82,4 @@ assets.msn.com
 scorecardresearch.com
 edge.microsoft.com
 data.msn.com
+ads-sg.tiktok.com
