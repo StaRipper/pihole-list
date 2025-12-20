@@ -85,3 +85,7 @@ data.msn.com
 ads-sg.tiktok.com
 www.r18.com
 ww99.f50q.com
+www.hamrick.com
+static.hamrick.com
+pubsubhubbub.appspot.com
+api.metadataapi.net
