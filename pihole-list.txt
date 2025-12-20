@@ -89,3 +89,6 @@ www.hamrick.com
 static.hamrick.com
 pubsubhubbub.appspot.com
 api.metadataapi.net
+log.fc.yahoo.com
+analytics.query.yahoo.com
+weather-analytics-events.apple.com
