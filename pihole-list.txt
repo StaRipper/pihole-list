@@ -92,3 +92,10 @@ api.metadataapi.net
 log.fc.yahoo.com
 analytics.query.yahoo.com
 weather-analytics-events.apple.com
+consent.cookiebot.com
+consentcdn.cookiebot.com
+cookiebot.com
+consent.trustarc.com
+sdk.privacy-center.org
+cdn.privacy-mgmt.com
+app.usercentrics.eu
