@@ -108,7 +108,7 @@ connect.facebook.net
 graph.facebook.com
 tr.facebook.com
 ads.x.com
-vk.com/rtrg
+vk.com
 xp.apple.com
 shareasale-analytics.com
 zenaps.com
