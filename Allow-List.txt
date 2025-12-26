@@ -41,3 +41,4 @@ fc.yahoo.com
 manifest.googlevideo.com
 m3u.best-smarter.me
 mtalk.google.com
+tradingview.com
