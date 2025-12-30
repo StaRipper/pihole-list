@@ -38,7 +38,4 @@ cf.hi-max.me
 cf.business-cdn.me
 import64571.cdn-akm.me
 fc.yahoo.com
-manifest.googlevideo.com
 m3u.best-smarter.me
-mtalk.google.com
-tradingview.com
