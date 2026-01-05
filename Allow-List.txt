@@ -40,3 +40,4 @@ import64571.cdn-akm.me
 fc.yahoo.com
 m3u.best-smarter.me
 data.tradingview.com
+telemetry.tradingview.com
