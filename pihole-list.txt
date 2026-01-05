@@ -118,7 +118,4 @@ widget.intercom.io
 imasdk.googleapis.com
 dai.google.com
 ssl.p.jwpcdn.com
-youtubei.googleapis.com
-redirector.googlevideo.com
-s.youtube.com
 greatis.com
